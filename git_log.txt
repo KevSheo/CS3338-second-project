@@ -1,0 +1,58 @@
+commit 2701bdd9347cd019d9dd09528e27191ed42c11b2
+Merge: c8ee652 62180cd
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 21:19:11 2025 -0700
+
+    Merge branch 'index-fix'
+
+commit 62180cdcbfea3bddf586739d182a092148aaddb1
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 21:11:28 2025 -0700
+
+    added favorite movie div to index.html
+
+commit c8ee652fe68e4bf2f71298757a007661756ba183
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 21:07:19 2025 -0700
+
+    added favorite food div to index.html
+
+commit 96281ef362c1c940b9a1a22080bec98fddff2e7b
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 20:43:06 2025 -0700
+
+    added README.md
+
+commit 016da1d1ad0a187b6afaf89c84782e7b4c093a9f
+Merge: 6cf93c6 c0df251
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 20:46:25 2025 -0700
+
+    e branch 'main' of https://github.com/KevSheo/CS3338-second-project into info-fill
+
+commit 6cf93c6ae8dbb9c28297c0fdfb0f2f0fd42615ba
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 20:43:06 2025 -0700
+
+    added README.md
+
+commit c0df25186cb0a2fa09a5292289aae32fb2cbb050
+Merge: 1d2bfc0 b84376d
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 20:38:46 2025 -0700
+
+    Merge pull request #1 from KevSheo/info-fill
+    
+    Filled in blanks in index.html
+
+commit b84376dd846997a0ab151434300f40982d16c4d0
+Author: Kevin Guerrero <kevinguerrero0025@gmail.com>
+Date:   Thu Sep 4 20:32:31 2025 -0700
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
